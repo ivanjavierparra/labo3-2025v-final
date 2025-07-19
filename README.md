@@ -22,7 +22,7 @@ Este repositorio contiene los mejores modelos que obtuvimos.
 - LightGBM
 - XGBoost
 
-<b>Redes Neuronales</>
+<b>Redes Neuronales</b>
 - LSTM
 
 ##### Repositorio de Francisco
